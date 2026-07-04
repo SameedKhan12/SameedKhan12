@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sameed Khan 👋
 
-<!--
-**SameedKhan12/SameedKhan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer from Pakistan focused on building production-ready web applications with modern TypeScript technologies.
 
-Here are some ideas to get you started:
+I enjoy designing backend architecture, relational databases, AI-powered applications, and scalable systems that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- TypeScript
+- React
+- Next.js
+- PostgreSQL
+- Drizzle ORM
+- Tailwind CSS
+- Node.js
+- Redis
+- AI Integrations
+
+## Featured Projects
+
+### Zynkra
+AI-powered study platform featuring hybrid RAG, vector search, background processing, streaming AI, and Stripe subscriptions.
+
+### Invoice SaaS
+Production-ready invoicing platform with Stripe Connect, PDF generation, transactional email workflows, and PostgreSQL.
+
+### Chat App
+Real-time messaging platform using Socket.IO, JWT authentication, MongoDB, and Zustand.
+
+## Currently Learning
+
+- Advanced System Design
+- AWS
+- Testing
+- CI/CD
+
+## Contact
+
+- Email: eedsam0@gmail.com
+- LinkedIn: linkedin.com/in/sameedkhan-dev
